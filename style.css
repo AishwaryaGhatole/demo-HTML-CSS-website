@@ -150,7 +150,7 @@ hr{
     background: #34e0c9;
     background-image: -webkit-linear-gradient(top, #34e0c9, #20add4);
     background-image: -moz-linear-gradient(top, #34e0c9, #20add4);
-    background-image: -ms-linear-gradient(top, #34e0c9, #20add4);
+    background-image: -ms-linear-gradient(top, #32ddc6, #20add4);
     background-image: -o-linear-gradient(top, #34e0c9, #20add4);
     background-image: linear-gradient(to bottom, #34e0c9, #20add4);
     -webkit-border-radius: 21;
